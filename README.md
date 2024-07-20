@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron
-
-* `Assignment 4 - MLP.ipynb`: which is a notebook contains the implementation of several version of MLP model, including the baseline model and the improved ones
+This repository contains the implementation of a Multi-Layer Perceptron (MLP) from scratch using Pytorch for predicting the wine quality.
+* `MLP.ipynb`: a notebook contains the implementation of several version of MLP model, including the baseline model and several fine tuned ones
 * `winequality-red.csv`: the dataset, also available at the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality), at [Kaggle](https://www.kaggle.com/datasets/sh6147782/winequalityred), etc.
 
 ## Structure of the notebook
